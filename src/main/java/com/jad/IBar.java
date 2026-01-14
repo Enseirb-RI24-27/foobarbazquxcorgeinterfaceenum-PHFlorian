@@ -1,5 +1,5 @@
 package com.jad;
 
 public interface IBar {
-    public void doSomethingLikeBar();
+    public void doSomethingLikeABar();
 }

@@ -16,7 +16,7 @@ public enum EBaz implements IBaz{
     }
 
     @Override
-    public void doSomethingLikeBaz() {
+    public void doSomethingLikeABaz() {
 
     }
 }
