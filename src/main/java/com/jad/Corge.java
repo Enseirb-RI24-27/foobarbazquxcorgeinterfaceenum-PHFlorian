@@ -9,7 +9,7 @@ public class Corge implements  ICorge{
 
     @Override
     public IFoo getFoo() {
-        return null;
+        return this.foo;
     }
 
     @Override
