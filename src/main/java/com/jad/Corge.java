@@ -14,6 +14,6 @@ public class Corge implements  ICorge{
 
     @Override
     public void setFoo(IFoo foo) {
-
+        this.foo = foo;
     }
 }
